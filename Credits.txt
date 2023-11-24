@@ -1,42 +1,42 @@
-Director
+**Director**
 
 Pyro
 
-Community Manager
+**Community Manager**
 
 Mr Cannon2203
 
-Lead Programmer
+**Lead Programmer**
 
 Pyro
 
-Lead Composer
+**Lead Composer**
 
 Slimer
 
-Lead Animator
+**Lead Animator**
 
 Pyro
 
-Composers
+**Composers**
 
 Slimer
 Interdimensional Music
 Sylveon386
 Hallow
 
-Voice Actors
+**Voice Actors**
 
 Slimer
 Interdimensional Music
 W4HO0
 Sylveon386
 
-Animators
+**Animators**
 
 Pyro
 
-Artists
+**Artists**
 
 Pyro
 Slimer
@@ -45,7 +45,7 @@ Chron
 Legol
 Draxno
 
-Concept Artists
+**Concept Artists**
 
 Pyro
 Slimer
@@ -54,7 +54,7 @@ W4HO0
 Legol
 Rareclambl
 
-Testers
+**Testers**
 
 NasaGamez
 Dr. S
@@ -63,7 +63,7 @@ Islem Gaming
 Misty
 Dub
 
-Special Thanks
+**Special Thanks**
 
 Sparkleysparkles
 Leleo
